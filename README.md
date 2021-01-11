@@ -1,4 +1,4 @@
-To run this application locally, make sure you have node installed on your device, which can be installed on https://nodejs.org/en/download/. Open the root directory you clone this project to in your newly installed node.js command line and type 'npm run start' to view the application at http://localhost:3000/ in your preferred browser.
+To run this application locally, make sure you have node installed on your device, which can be installed on https://nodejs.org/en/download/. Open the root directory you clone this project to in your newly installed node.js command line and type 'npm start' to view the application at http://localhost:3000/ in your preferred browser.
 
 ## Implementation details
 
