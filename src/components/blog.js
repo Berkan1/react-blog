@@ -65,7 +65,8 @@ function Blog() {
   }
 
   const filterPage = (event, value) => {
-    setActivePage(value)
+    setActivePage(value);
+    window.scrollTo(0, 0);
   }
 
   return (

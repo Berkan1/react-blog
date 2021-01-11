@@ -3,6 +3,10 @@ $secondary: #6935D3;
 $secondary-hover: #4718A7;
 $alternate: #68D9CF;
 
+html {
+  scroll-behavior: smooth;
+}
+
 .App {
   text-align: center;
 }
